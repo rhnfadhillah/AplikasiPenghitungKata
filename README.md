@@ -1,8 +1,6 @@
 
 # Aplikasi Penghitung Kata
 Tugas 5 - Muhammad Raihan Fadhillah 2210010404
-## Deskripsi
-Aplikasi Penghitung Kata adalah sebuah program Java berbasis GUI yang memungkinkan pengguna untuk menghitung jumlah kata, karakter, kalimat, dan paragraf dalam teks yang dimasukkan. Selain itu, aplikasi ini juga menyediakan fitur pencarian kata dan penyimpanan hasil perhitungan ke dalam file teks.
 
 ## Daftar Isi
 - [Deskripsi](#deskripsi)
@@ -13,6 +11,10 @@ Aplikasi Penghitung Kata adalah sebuah program Java berbasis GUI yang memungkink
 - [Screenshots](#screenshots)
 - [Contoh Penggunaan](#contoh-penggunaan)
 - [Pembuat](#pembuat)
+
+## Deskripsi
+Aplikasi Penghitung Kata adalah sebuah program Java berbasis GUI yang memungkinkan pengguna untuk menghitung jumlah kata, karakter, kalimat, dan paragraf dalam teks yang dimasukkan. Selain itu, aplikasi ini juga menyediakan fitur pencarian kata dan penyimpanan hasil perhitungan ke dalam file teks.
+
 
 ## Prerequisites
 Sebelum menjalankan aplikasi ini, pastikan Anda telah menginstal:
